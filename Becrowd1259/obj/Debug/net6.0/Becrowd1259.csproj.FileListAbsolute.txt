@@ -1,0 +1,15 @@
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.csproj.AssemblyReference.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.AssemblyInfoInputs.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.AssemblyInfo.cs
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\bin\Debug\net6.0\Becrowd1259.exe
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\bin\Debug\net6.0\Becrowd1259.deps.json
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\bin\Debug\net6.0\Becrowd1259.runtimeconfig.json
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\bin\Debug\net6.0\Becrowd1259.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\bin\Debug\net6.0\Becrowd1259.pdb
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\refint\Becrowd1259.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.pdb
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\Becrowd1259.genruntimeconfig.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1259\obj\Debug\net6.0\ref\Becrowd1259.dll

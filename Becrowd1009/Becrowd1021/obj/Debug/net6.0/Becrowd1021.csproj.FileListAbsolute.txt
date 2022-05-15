@@ -1,0 +1,15 @@
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\bin\Debug\net6.0\Becrowd1021.exe
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\bin\Debug\net6.0\Becrowd1021.deps.json
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\bin\Debug\net6.0\Becrowd1021.runtimeconfig.json
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\bin\Debug\net6.0\Becrowd1021.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\bin\Debug\net6.0\Becrowd1021.pdb
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.csproj.AssemblyReference.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.AssemblyInfoInputs.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.AssemblyInfo.cs
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.csproj.CoreCompileInputs.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\refint\Becrowd1021.dll
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.pdb
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\Becrowd1021.genruntimeconfig.cache
+C:\Users\Rudy\OneDrive\Documentos\Compass\repo\Becrowd1009\Becrowd1021\obj\Debug\net6.0\ref\Becrowd1021.dll
